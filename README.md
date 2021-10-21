@@ -9,3 +9,7 @@
 3. 可能有些地方需要添加一些译注；
 4. 一定有些拗口的句子需要重新梳理；
 5. 其他……
+
+## 其它
+
+[Vitalik Buterin 对这本书的评价和读书笔记](https://twitter.com/VitalikButerin/status/1244353457034854400?s=20)
