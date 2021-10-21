@@ -1,6 +1,19 @@
 # 主权个体（中译版）
 
-`sovereign-Individuals-en-cn.html` 实际上是『中英对照』版本，英文部分在浏览器里被 `<!--   -->` 给隐藏掉了…… 使用 SublimeText 或者 Visual Studio Code 之类的编辑器打开，每一行中文都对应着保留的英文文本。
+`sovereign-Individuals-en-cn.html` 实际上是『中英对照』版本，英文部分在浏览器里被 `<!--   -->` 给隐藏掉了…… 使用 SublimeText 或者 Visual Studio Code 之类的编辑器打开，每一行中文都对应着保留的英文文本。比如：
+
+```html
+<blockquote>
+
+<!-- <p><em>“I know of no more encouraging fact than the unquestionable ability of man to elevate his life by conscious endeavor.”</em></p><en /> -->
+<p>我所知道的最令人鼓舞的事实，莫过于人类无容置疑地拥有通过有意识的努力来提升自己的生活的能力。</p>
+
+<!-- <p>—HENRY DAVID THOREAU</p><en /> -->
+<p>—— 亨利·戴维·索罗（<em>HENRY DAVID THOREAU</em>）</p>
+
+<!-- </blockquote><en /> -->
+</blockquote>
+```
 
 ## to-do
 
