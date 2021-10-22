@@ -15,7 +15,7 @@ html {
     /* Position the navbar at the top of the page */
     width: 100%;
     /* Full width */
-    border-bottom: 1px solid #c22727;
+    border-bottom: 1px solid #752828;
 }
 
 .toc {
@@ -253,7 +253,7 @@ sub {
 
 sup a,
 sub a {
-    color: brown;
+    color: #752828;
     text-decoration: none !important;
 }
 
