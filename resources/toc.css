@@ -32,4 +32,6 @@
     font-size: 10px;
 }
 
-.toc-item-inner {}
+.toc-item-inner {
+    text-decoration: none;
+}
