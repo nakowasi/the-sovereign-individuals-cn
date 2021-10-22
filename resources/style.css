@@ -11,10 +11,11 @@ html {
     background-color: #eee;
     position: fixed;
     /* Set the navbar to fixed position */
-    top: 0;
+    top: -50px;
     /* Position the navbar at the top of the page */
     width: 100%;
     /* Full width */
+    border-bottom: 1px solid #c22727;
 }
 
 .toc {
@@ -24,11 +25,13 @@ html {
     overflow-y: auto;
     padding-left: 20px;
     height: 100vh;
+    padding-top: 20px;
 }
 
 .contents {
-    margin-top: 220px;
+    margin-top: 100px;
     margin-left: 30%;
+    padding-top: 20px;
     width: 65%;
 }
 
