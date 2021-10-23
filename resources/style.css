@@ -15,7 +15,12 @@ html {
     /* Position the navbar at the top of the page */
     width: 100%;
     /* Full width */
-    border-bottom: 1px solid #752828;
+    /* border-bottom: 1px solid #752828; */
+    background: url(images/background.jpg) #752828;
+}
+
+#title-block-header h1{
+    color: aliceblue;
 }
 
 .toc {
@@ -25,13 +30,13 @@ html {
     overflow-y: auto;
     padding-left: 20px;
     height: 100vh;
-    padding-top: 20px;
+    padding-top: 50px;
 }
 
 .contents {
     margin-top: 100px;
     margin-left: 30%;
-    padding-top: 20px;
+    padding-top: 50px;
     width: 65%;
 }
 
